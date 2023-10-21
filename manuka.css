@@ -1,0 +1,1112 @@
+
+
+
+body {
+	
+	height:100vh;
+	width:1600px;
+	font-size:25px;
+	
+	
+}
+
+
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin:12px 22px;
+margin-left:55px;
+text-align:left;
+
+
+
+		}
+		
+		
+	
+		
+		
+		
+		.blue {
+			
+			height:150px;
+			background:#00008B ;
+			display:flex;
+			padding-bottom:1px;
+			
+			background-image:url("stir.jpg");
+			width:1600px;
+		}
+		
+		
+		
+		header ul{
+		display:flex;
+		justify-content:center;
+		align-items:center;
+		list-style:none;
+		
+		
+		  }		
+
+		
+		
+		
+		header ul li a{
+			padding:17px 20px;
+			border-radius:20px;
+			
+			
+			
+		}
+		
+		
+		header ul li a:hover{
+			background:#DAA520;
+			color:white;
+		
+		}
+		
+		.active {
+			background:#DAA520;
+		    color:black;
+		}
+		a{
+			text-decoration:none;
+			color:blue;
+		}
+			
+		.honey {
+			
+			margin-left:688px;
+			width:10px;
+			margin-bottom:0px;
+			
+		}
+			
+		
+			
+		.move {
+
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin:11px;
+text-align:left;
+
+
+		}			
+			
+			.move ul li a{
+				padding:10px 9px;
+			border-radius:20px;
+			margin-left:300px;
+			
+			
+			}
+			
+			.move ul {
+				
+				display:flex;
+		justify-content:center;
+		align-items:center;
+		list-style:none;
+			}
+			
+			
+			.ha{
+				
+				background-image:url("manu.jpeg");
+				
+				
+				padding:320px;
+				height:max-content;
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+			
+			}
+			
+			.models {
+				
+				
+				
+background-image:url("stir.jpg");
+
+padding:160px;
+
+
+
+height:max-content;
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+
+				
+			}
+			
+			.item-image{
+	height:200px;
+	width:200px;
+	border-radius:0 0 50px  50px;
+	padding:10px;
+	
+}
+
+.item-image-size {
+	
+	margin-left:40px;
+	font-size:400px;
+}
+
+.items {
+	
+	margin-left:600px;
+	
+	
+}
+
+
+strong {
+	
+	margin-left:20px;
+}
+
+
+
+.info{ 
+
+color:black;
+
+}	        
+h4 {
+	background:grey;
+	font-size:30px;
+	
+}
+
+.image-title{
+	text-align:center;
+	padding:10px;
+	font-weight:bold;
+}
+
+
+			.description {
+	
+	margin:20px;
+	
+	min-height:100px;
+	text-align:center;
+	
+}
+			
+			
+		.categories, .items{
+	width:max-content;
+	margin:25px;
+	border:1px solid #18d47;
+	border-radius:0 0 50px 50px;
+	display:inline-block;
+	margin-right:22px;
+	
+}	
+			
+			
+.images{
+	display:inline-block;
+	
+	
+}
+
+.item-image-size{
+	height:200px;
+	width:200px;
+	padding:20px;
+	margin-right:90px;
+	font-size:20px;
+}
+
+.items:hover {
+	
+	background:#DAA520;
+}
+.description {
+	
+	margin:20px;
+	min-height:88px;
+	margin-right:77px;
+	
+}
+
+.item-select{
+	margin:10px 0 0 0;
+	
+	
+}
+
+.buynow-btn{
+	border:1px solid #00008B;
+	background:#00008B;
+	padding:5px 15px;
+	border-radius:20px;
+	font-weight:bold;
+	margin-top:10px;
+	color:white;
+	cursor:pointer;
+}
+.buynow-btn:hover{
+	border:1px solid #DAA520;
+	box-shadow:0 0 10px 5px #000080 inset;
+	
+}
+
+
+
+.parallax2 {
+   background-image:url("stir.jpg");
+
+ display:wrap;
+ margin:70px;
+ width:900px;
+ text-align:center;
+ margin-left:300px;
+ 
+   background-size:cover
+}
+
+
+.parallax7 {
+   background-image:url("dark.jpg");
+ display:wrap;
+ margin:2px;
+ width:1600px;
+  
+ margin-right:1300px;
+   background-size:cover
+}
+
+
+
+.footer {
+	background:rgba(0,0,0,0.5);
+	text-align:center;
+	padding:20px;
+	
+}
+
+.buynow-btn {
+	
+	font-size:18px;
+	
+}
+
+.quick-links{
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+	display:inline-block;
+	min-width:30%;
+}
+
+.quick-links ul {
+	padding:0;
+	
+}
+
+.quick-links li {
+	list-style:none;
+	padding:10px;
+	font-weight:300px;
+}
+
+.title {
+	padding:50px;
+	font-size:50px;
+	font-weight:bold;
+	letter-spacing:10px;
+	color:white;
+	background:rgba(0,0,0,0.5);
+	
+}
+
+dd {
+	
+	
+	font-size:30px;
+	
+}
+
+
+label {
+	
+	font-size:22px;
+	
+}
+
+
+
+	
+	.facebook {
+display:inline-block;
+		width:120px;
+		
+		
+	}
+		
+		
+	.insta {
+		
+		width:90px;
+		height:80px;
+		margin-left:266px;
+		display:inline-block;
+		
+		
+	}
+	.tiktok{
+		
+	width:90px;
+		height:70px;
+		 margin-left:300px;
+		 display:inline-block
+
+	}
+	.facebook{
+		width:120px;
+		height:88px;
+		 margin-left:1px;
+		 display:inline-block
+	}
+	
+	
+.parallax4{
+	
+	
+		background-color:#DAA520;
+		
+		height:80px;
+		display:flex;
+		
+	width:1600px;
+	
+}
+
+
+	
+.parallax3{
+		
+		background-image:url("background.jpg");
+		
+		height:80px;
+		margin:9px  0px;
+		width:1180px;
+		padding:200px;
+		background-size:cover;
+		
+		
+	}
+
+.container2 {
+
+
+		width:200px;
+		
+		height:30px;
+		margin-bottom:500px;
+		margin:20px 14px;
+		
+		
+		margin-right:90px;
+}
+
+
+.lock {
+	
+		width:120px;
+		position:relative;
+		height:80px;
+		background:white;
+		margin:9px 12px;
+		margin:center;
+		margin-bottom:100px;
+		margin-left:230px;
+		
+		
+		
+}
+
+
+
+.class {
+	
+		width:200px;
+		position:relative;
+		height:200px;
+		
+		margin:20px 10px;
+		margin:center;
+		display:inline-block;
+		margin-right:220px;
+		margin-top:5px;
+		
+
+	
+}
+
+
+.houney1 {
+	
+	margin-left:699px;
+	margin-top:200px;
+	
+	
+}
+
+.name:hover{
+	background-color:white	;
+}
+
+
+button{
+	background:transparent;
+	border:none;
+	outline:none;
+}
+
+.send {
+	
+	
+	background-color:#DAA520;
+	color:blue; 
+	border-style:solid;
+	border:none;
+	height:29px;
+	width:120px;
+	border-radius:190px;
+	font-weight:bold;
+	font-size:21px;
+	cursor:pointer;
+	transition:box-shadow 0.15s;
+}
+
+
+.send:hover{
+	background-color:blue;
+	color:#blue ;
+}
+
+
+.name {
+	height:55px;
+	width:400px;
+	background:#3C99DC;
+}
+
+
+
+.copyrights{
+	font-size:16px;
+	font-family:verdana, arial,helvcita, sans-serif;
+	text-align:center;
+	margin:15px;
+	margin-right:500px;
+}
+
+
+.h2{
+	
+	margin-left:10px;
+	margin-top:44px;
+	font-size:6px;
+	
+
+
+}
+
+
+	
+
+	
+
+.w{
+	
+	font-size:44px;
+	margin-right:100px;
+	margin-top:66px;
+}
+
+
+h1 {
+	
+	background:#DAA520;
+}
+			
+			h2 {
+				color:white;
+			}
+		
+.h3 {
+	 background-image:url("stir.jpg");
+	 height:60px;
+	 text-align:center;
+	 padding:9px;
+	
+	 
+}
+
+p {
+	
+	margin-left:530px;
+}
+
+	.facebook1 {
+width:127px;
+		height:73px;
+		 margin-left:19px;
+		 display:inline-block
+		
+		
+	}
+		
+		
+	.insta1 {
+	
+		width:70px;
+		height:100px;
+		margin-left:300px;
+		display:inline-block;
+		
+	}
+	.tweets1{
+		
+		
+	width:55px;
+		height:100px;
+		 margin-left:277px;
+		 display:inline-block
+
+	}
+	
+	
+	.insta2 {
+		
+	
+		width:70px;
+		height:100px;
+		margin-left:300px;
+		display:inline-block;
+		
+		
+	}
+	.tweets2{
+		
+		
+	width:55px;
+		height:100px;
+		 margin-left:277px;
+		 display:inline-block
+
+
+	}
+	
+	
+	.insta3 {
+		
+		
+		width:70px;
+		height:100px;
+		margin-left:300px;
+		display:inline-block;
+	
+		
+	}
+	
+	.tweets3{
+	
+	width:55px;
+		height:100px;
+		 margin-left:277px;
+		 display:inline-block
+
+
+	}
+	
+	.facebook1{
+		width:127px;
+		height:100px;
+		 margin-left:19px;
+		 display:inline-block
+	}
+
+
+
+	.whatsaap{
+		
+		position:fixed;
+		bottom:20px;
+		right:20px;
+		
+	}
+		
+			
+@media screen and  (orientation:portrait) {
+
+.ha{
+	padding:820px;
+	
+	
+}
+}
+	
+@media screen and  (orientation:portrait) {
+
+.models{
+	
+	
+	font-size:50px;
+	
+}
+}		
+			
+				
+@media screen and  (orientation:portrait) {
+
+body{
+	    font-size:30px;
+	width:1600px;
+	
+	
+}
+}	
+	
+
+
+			
+@media screen and  (orientation:portrait) {
+
+header{
+	    font-size:40px;
+		
+	margin-right:1px;
+	
+}
+}	
+
+		
+@media screen and  (orientation:portrait) {
+
+.honey{
+	   margin-left:9px;
+	   
+	   
+	
+	
+}
+}	
+
+	
+		
+@media screen and  (orientation:portrait) {
+
+ .buynow-btn {
+	    font-size:40px;
+	
+	
+}
+}	
+
+	
+
+
+@media screen and  (orientation:portrait) {
+
+ .blue {
+	     
+	
+	width:1650px;
+	display:flex;
+}
+}	
+
+
+@media screen and  (orientation:portrait) {
+
+ ul{
+	     
+	margin-right:44px;
+	
+}
+}	
+
+
+
+
+@media screen and  (orientation:portrait) {
+
+ .parallax2{
+	     
+	width:1000px;
+	
+}
+}	
+
+
+
+@media screen and  (orientation:portrait) {
+
+ p{
+	
+}	
+
+
+
+
+
+@media screen and  (orientation:portrait) {
+
+ .h3{
+	     
+	font-size:40px;
+	
+}
+}	
+
+
+
+@media screen and  (orientation:portrait) {
+
+ .tiktok{
+	     
+	height:177px;
+	margin-left:180px;
+    width:160px;
+}
+}	
+
+
+
+@media screen and  (orientation:portrait) {
+
+ .insta{
+	 margin-left:120px;
+height:200px;
+width:180px;
+}
+}	
+
+@media screen and  (orientation:portrait) {
+
+ .facebook{
+	     
+	height:200px;
+	margin-left:190px;
+	width:260px;
+}
+}	
+
+
+
+@media screen and  (orientation:portrait) {
+
+ 
+	   
+		header ul li a:hover{
+			background:#DAA520;
+			color:white;  
+	
+	
+}
+}	
+
+
+
+
+@media screen and  (orientation:portrait) {
+
+ .parallax4{
+	     
+	width:1600px;
+	height:180px;
+}
+}	
+
+	
+
+@media screen and  (orientation:portrait) {
+
+ .item-image-size{
+	 
+	 height:600px;
+	  width:800px;
+	     
+	
+	margin-left:190px;
+}
+}	
+
+
+	
+
+@media screen and  (orientation:portrait) {
+
+ h1{
+	 
+	 font-size:54px;
+	 width:340px;
+	 height:99px;
+}
+}
+	
+	
+
+@media screen and  (orientation:portrait) {
+
+ .w{
+	 
+	font-size:50px;
+	
+}
+}
+	
+
+@media screen and  (orientation:portrait) {
+
+.send{
+	 
+	font-size:66px;
+	width:280px;
+	height:88px;
+	
+}
+}
+	
+
+
+
+@media screen and  (orientation:portrait) {
+
+.parallax2{
+	 
+	
+	width:1600px;
+
+	margin-left:12px;
+}
+}
+
+
+
+@media screen and  (orientation:portrait) {
+
+.name{
+	
+	font-size:33px;
+	
+}
+}	
+
+
+
+
+@media screen and  (orientation:portrait) {
+
+img{
+	
+	font-size:200px;
+	margin-right:120px;
+}
+}	
+
+
+
+@media screen and  (orientation:portrait) {
+
+ option{
+	 
+	
+	     
+	
+	margin-left:150px;
+}
+}	
+	
+		
+		
+@media screen and  (orientation:portrait) {
+
+ dd{
+	     font-size:80px;
+	
+	
+}
+}
+
+		
+@media screen and  (orientation:portrait) {
+
+ lable{
+	     font-size:90px;
+	
+	
+}
+}
+		
+@media screen and  (orientation:portrait) {
+
+.categories, .items {
+	   
+	
+	width:max-content;
+	margin:25px;
+	border:1px solid #18d47;
+	border-radius:0 0 50px 50px;
+	display:inline-block;
+	margin-right:22px;
+	
+	font-size:66px;
+}
+}
+
+
+	
+@media screen and  (orientation:portrait) {
+
+ .buynow-btn{
+	   
+	margin-left:80px;
+	font-size:70px;
+}
+}
+
+		
+@media screen and  (orientation:portrait) {
+
+ .description{
+	   
+	
+	margin-left:66px;
+	
+	text-align:center;
+	font-size:77px;
+}
+}
+
+
+	
+	
+
+
+	
+@media screen and  (orientation:portrait) {
+
+ .item-select{
+	
+	font-size:50px;
+	
+	
+}
+}
+	
+	
+	
+	
+	
+@media screen and  (orientation:portrait) {
+
+ .items{
+	   
+	margin-left:22px;
+	text-align:center;
+	
+	
+}
+}
+
+
+
+
+@media screen and  (orientation:portrait) {
+
+ p{
+	   
+	margin-left:430px;
+	
+	
+}
+}
+
+
+	
+@media screen and  (orientation:portrait) {
+
+ .{
+	   
+	margin-left:22px;
+	
+	
+	
+}
+}
+
+		
+@media screen and  (orientation:portrait) {
+
+ strong{
+	     font-size:50
+		 px;
+	
+	
+}
+}	
+	
+	
+@media screen and  (orientation:portrait) {
+
+ .active{
+	     font-size:40px;
+	margin-left:1px;
+	
+	
+}
+}	
+	
+
+@media screen and  (orientation:portrait) {
+
+ ul{
+	  margin-left:1px;
+	
+	
+}
+}	
+
+	
+			
+@media screen and  (orientation:portrait) {
+
+.whatsaap{
+	
+	
+    
+		position:fixed;
+		bottom:20px;
+		right:20px;
+		width:200px;
+		
+}
+}
+	
+	
+	
+	
+	
+	
+	
+	
+			
